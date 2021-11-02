@@ -1,0 +1,15 @@
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldBL.dll
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldDTO.dll
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldDAL.dll
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldBL.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldDTO.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldDAL.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldDAL.dll.config
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CopyComplete

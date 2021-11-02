@@ -1,0 +1,6 @@
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\bin\Debug\HelloWorldDTO.dll
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\bin\Debug\HelloWorldDTO.pdb
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\obj\Debug\HelloWorldDTO.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\obj\Debug\HelloWorldDTO.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\obj\Debug\HelloWorldDTO.dll
+C:\Users\40013016\Desktop\AugustSTEPin\DDALADONETEF\HelloWorld\HelloWorldDTO\obj\Debug\HelloWorldDTO.pdb
